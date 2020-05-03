@@ -1,6 +1,6 @@
 # sq-ui
 
-&diams;&diams;&diams; 项目预览地址：[sq-ui](https://github.com/sq-github/sq-ui/tree/master/packages)
+&diams;&diams;&diams; 项目预览地址：[sq-ui](https://github.com/sq-github/sq-ui/tree/master/packages)  
 &diams;&diams;&diams; 项目文档地址：[sq-blog](https://www.cnblogs.com/sq-blogs/p/12822206.html)
 
 &diams;&diams;&diams; 建这个项目的初衷主要是用来学习交流，一是熟悉一个组件库的搭建和相关知识点，二是将自己喜欢的一些组件进行封装和收集。
