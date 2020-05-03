@@ -40,42 +40,42 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-  .SqTextDraw {
-    width: 240px;
-    height: 120px;
-    margin: 0 auto;
+.SqTextDraw {
+  width: 240px;
+  height: 120px;
+  margin: 0 auto;
+}
+.svgDom {
+  width: 240;
+  height: 120px;
+}
+.word {
+  fill-opacity: 0;
+  stroke: red;
+  stroke-width: 1.5;
+  stroke-dasharray: 200;
+}
+#path1 {
+  animation: draw 3s ease;
+}
+#path2 {
+  animation: draw 3s ease 1.5s;
+}
+#path3 {
+  animation: draw 3s ease 3s;
+}
+#path4 {
+  animation: draw 3s ease 4s;
+}
+#path5 {
+  animation: draw 3s ease 6s;
+}
+@keyframes draw {
+  0% {
+    stroke-dashoffset: 200;
   }
-  .svgDom {
-    width: 240;
-    height: 120px;
+  100% {
+    stroke-dashoffset: 0;
   }
-  .word {
-    fill-opacity: 0;
-    stroke: red;
-    stroke-width: 1.5;
-    stroke-dasharray: 200;
-  }
-  #path1 {
-    animation: draw 3s ease;
-  }
-  #path2 {
-    animation: draw 3s ease 1.5s;
-  }
-  #path3 {
-    animation: draw 3s ease 3s;
-  }
-  #path4 {
-    animation: draw 3s ease 4s;
-  }
-  #path5 {
-    animation: draw 3s ease 6s;
-  }
-  @keyframes draw {
-    0% {
-      stroke-dashoffset: 200;
-    }
-    100% {
-      stroke-dashoffset: 0;
-    }
-  }
+}
 </style>

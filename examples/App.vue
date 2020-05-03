@@ -5,7 +5,7 @@
       <div class="logo">
         <Logo></Logo>
       </div>
-      <button class="toGithub">View on GitHub</button>
+      <button class="toGithub" @click="toGithub">View on GitHub</button>
     </div>
     <div class="main">
       <!-- sidebar -->
@@ -32,6 +32,11 @@ export default {
   data() {
     return {
       navsData
+    }
+  },
+  methods: {
+    toGithub() {
+      window.location.href = 'https://github.com/sq-github/sq-ui'
     }
   }
 }
