@@ -10,6 +10,6 @@
 
 &diams;&diams;&diams; 此项目主要是用来学习，欢迎交流指正。😃
 
-&diams;&diams;&diams; 项目文档地址：[sq-blog](https://www.cnblogs.com/sq-blogs/p/12822206.html)
+&diams;&diams;&diams; 项目文档地址：[sq-blog](https://www.cnblogs.com/sq-blogs/p/12822206.html)。
 
 &diams;&diams;&diams; [vv-ui](https://vv-ui.github.io/VV-UI/#/)、[yuan-ui](https://github.com/xiaolannuoyi/yuan-ui) 这些厉害的项目给了很大的参考，十分感谢。 😃
