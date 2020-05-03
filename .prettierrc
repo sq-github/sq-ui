@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "semi": false,
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "ignore",
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true
+}

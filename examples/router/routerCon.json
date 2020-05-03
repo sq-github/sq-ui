@@ -1,0 +1,43 @@
+[
+  {
+    "name": "写在前面",
+    "path": "/preface",
+    "title": "写在前面"
+  },
+  {
+    "name": "test",
+    "groups": [
+      {
+        "groupName": "测试组件",
+        "list": [
+          {
+            "path": "/test1",
+            "title": "测试1"
+          },
+          {
+            "path": "/test2",
+            "title": "测试2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "components",
+    "groups": [
+      {
+        "groupName": "基础组件",
+        "list": [
+          {
+            "path": "/text",
+            "title": "文字"
+          },
+          {
+            "path": "/hoverButton",
+            "title": "按钮hover"
+          }
+        ]
+      }
+    ]
+  }
+]
