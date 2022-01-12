@@ -19,7 +19,7 @@
   "dependencies": {
     "core-js": "^3.6.4",
     "highlight.js": "^10.0.1",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^5.2.7",
     "markdown-it-container": "^2.0.0",
     "transliteration": "^2.1.9",
